@@ -132,7 +132,6 @@ fun TelaInicial(){
                     modifier = Modifier
                         .width(33.dp)
                         .height(33.dp)
-
                 )
                 Image(
                     painter = painterResource(R.drawable.twitter),
